@@ -1,2 +1,3 @@
 # gitTutorial
-this is my demoRepo
+this is first repository
+this is first commit
